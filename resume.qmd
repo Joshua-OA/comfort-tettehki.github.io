@@ -3,12 +3,28 @@
 # Resume
 
 ::: {.text-center .mb-8}
-**MBA Student | Supply Chain Management Analyst | Strategic Thinker**
+**MBA graduate | Supply Chain Management Analyst | Strategic Thinker**
 :::
 
 ## Professional Experience
 
 ::: {.timeline .mt-6}
+::: {.timeline-item}
+::: {.timeline-date}
+October 2024 - June 2025
+:::
+
+::: {.timeline-content}
+### Sales Associate
+**Hudson Bay, Willowbrook Shopping Centre**
+
+**Key Achievements:**
+- Assisted daily customers with styling suggestions, fitting room coordination, and checkout
+- Processed transactions via POS system with accuracy and handled returns/exchanges per company policy
+- Took part in organized seasonal merchandise displays, contributing to accessory sales
+:::
+:::
+
 ::: {.timeline-item}
 ::: {.timeline-date}
 April 2022 - August 2024
@@ -47,7 +63,7 @@ November 2020 - April 2022
 ::: {.timeline .mt-8}
 ::: {.timeline-item}
 ::: {.timeline-date}
-2024 - present
+2024 - 2026
 :::
 
 ::: {.timeline-content}
