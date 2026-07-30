@@ -7,7 +7,7 @@
 ::: {.hero-text}
 # Hi there!
 
-Fueled by a passion for business strategy and innovation, I have a deep desire to excel and continuously improve in my work. MBA graduate with a focus on supply chain management.
+Fueled by a passion for business strategy and innovation, I have a deep desire to excel and continuously improve in my work. An MBA graduate with a focus on supply chain management.
 
 [View My Work](resume.qmd){.btn .btn-primary}
 :::
